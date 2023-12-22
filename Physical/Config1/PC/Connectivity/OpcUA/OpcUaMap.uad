@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<OpcUaSource FileVersion="7" ArVersion="C4.90">
+  <Aliases>
+    <ACLAliases />
+    <EURangeViolationAliases />
+    <EURangesAliases />
+    <EngineeringUnitAliases />
+  </Aliases>
+  <DefaultView>
+    <Module Name="&lt;Default&gt;">
+      <Task Name="URTKPrg">
+        <Variable Name="URTK1">
+          <Variable Name="Enable" />
+          <Variable Name="Xinputvelocity" />
+          <Variable Name="Yimputvelocity" />
+          <Variable Name="Zimputevelocity" />
+          <Variable Name="InstRef" />
+          <Variable Name="internal_axisY1" />
+          <Variable Name="internal_axisY2" />
+          <Variable Name="internal_axisY3" />
+          <Variable Name="internal_axisZ1" />
+          <Variable Name="internal_axisZ2" />
+          <Variable Name="internal_axisZ3" />
+          <Variable Name="internal_movementX1" />
+          <Variable Name="internal_movementX2" />
+          <Variable Name="internal_movementX3" />
+          <Variable Name="internal_movementY1" />
+          <Variable Name="internal_movementY2" />
+          <Variable Name="internal_movementY3" />
+          <Variable Name="internal_movementZ1" />
+          <Variable Name="internal_movementZ2" />
+          <Variable Name="internal_movementZ3" />
+          <Variable Name="internal_Ground1" />
+          <Variable Name="internal_Ground2" />
+          <Variable Name="internal_Ground3" />
+          <Variable Name="Internal" />
+        </Variable>
+        <Variable Name="urtk_out">
+          <Variable Name="Enable" />
+          <Variable Name="Xinputvelocity" />
+          <Variable Name="Yimputvelocity" />
+          <Variable Name="Zimputevelocity" />
+          <Variable Name="InstRef" />
+          <Variable Name="internal_axisY1" />
+          <Variable Name="internal_axisY2" />
+          <Variable Name="internal_axisY3" />
+          <Variable Name="internal_axisZ1" />
+          <Variable Name="internal_axisZ2" />
+          <Variable Name="internal_axisZ3" />
+          <Variable Name="internal_movementX1" />
+          <Variable Name="internal_movementX2" />
+          <Variable Name="internal_movementX3" />
+          <Variable Name="internal_movementY1" />
+          <Variable Name="internal_movementY2" />
+          <Variable Name="internal_movementY3" />
+          <Variable Name="internal_movementZ1" />
+          <Variable Name="internal_movementZ2" />
+          <Variable Name="internal_movementZ3" />
+          <Variable Name="internal_Ground1" />
+          <Variable Name="internal_Ground2" />
+          <Variable Name="internal_Ground3" />
+          <Variable Name="Internal" />
+        </Variable>
+      </Task>
+    </Module>
+  </DefaultView>
+</OpcUaSource>
