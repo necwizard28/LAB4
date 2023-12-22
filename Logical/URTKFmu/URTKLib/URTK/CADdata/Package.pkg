@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio FileVersion="4.9"?>
+<Package xmlns="http://br-automation.co.at/AS/Package">
+  <Objects>
+    <Object Type="File">axes_Y_Color_0_0_0_255.stl</Object>
+    <Object Type="File">axes_Y_Color_13_157_13_255.stl</Object>
+    <Object Type="File">axes_Y_Color_178_0_0_255.stl</Object>
+    <Object Type="File">axes_Y_Color_191_191_191_255.stl</Object>
+    <Object Type="File">axes_Y_Color_224_223_219_255.stl</Object>
+    <Object Type="File">axes_Y_Color_231_214_172_255.stl</Object>
+    <Object Type="File">axes_Z_Color_0_0_0_255.stl</Object>
+    <Object Type="File">axes_Z_Color_13_157_13_255.stl</Object>
+    <Object Type="File">axes_Z_Color_178_0_0_255.stl</Object>
+    <Object Type="File">axes_Z_Color_191_191_191_255.stl</Object>
+    <Object Type="File">axes_Z_Color_224_223_219_255.stl</Object>
+    <Object Type="File">axes_Z_Color_231_214_172_255.stl</Object>
+    <Object Type="File">Ground_(axes_X)_Color_0_0_0_255.stl</Object>
+    <Object Type="File">Ground_(axes_X)_Color_13_157_13_255.stl</Object>
+    <Object Type="File">Ground_(axes_X)_Color_178_0_0_255.stl</Object>
+    <Object Type="File">Ground_(axes_X)_Color_191_191_191_255.stl</Object>
+    <Object Type="File">Ground_(axes_X)_Color_224_223_219_255.stl</Object>
+    <Object Type="File">Ground_(axes_X)_Color_231_214_172_255.stl</Object>
+    <Object Type="File">X_movement_block_Color_178_0_0_255.stl</Object>
+    <Object Type="File">X_movement_block_Color_191_191_191_255.stl</Object>
+    <Object Type="File">X_movement_block_Color_69_69_69_255.stl</Object>
+    <Object Type="File">Y_movement_block_Color_178_0_0_255.stl</Object>
+    <Object Type="File">Y_movement_block_Color_191_191_191_255.stl</Object>
+    <Object Type="File">Y_movement_block_Color_69_69_69_255.stl</Object>
+    <Object Type="File">Z_movement_block_Color_178_0_0_255.stl</Object>
+    <Object Type="File">Z_movement_block_Color_191_191_191_255.stl</Object>
+    <Object Type="File">Z_movement_block_Color_69_69_69_255.stl</Object>
+  </Objects>
+  <Dependencies>
+    <Dependency ObjectName="sys_lib" />
+  </Dependencies>
+</Package>

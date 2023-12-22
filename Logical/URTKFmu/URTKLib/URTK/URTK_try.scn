@@ -1,0 +1,1618 @@
+﻿<?xml version="1.0"?>
+<Object objecttypeid="1" name="Scene" visible="1" mask="" binding="" jointoparent="0">
+	<ParID parid="80" val="FALSE"/>
+	<ParID parid="81" val="60"/>
+	<ParID parid="82" val="0.385544"/>
+	<ParID parid="90" val="0"/>
+	<ParID parid="100" val="265.237"/>
+	<ParID parid="101" val="219.609"/>
+	<ParID parid="102" val="-127.626"/>
+	<ParID parid="103" val="-0.152219"/>
+	<ParID parid="104" val="-0.355651"/>
+	<ParID parid="105" val="-0.92214"/>
+	<ParID parid="106" val="-0.0579241"/>
+	<ParID parid="107" val="0.934619"/>
+	<ParID parid="108" val="-0.350902"/>
+	<ParID parid="110" val="0.5"/>
+	<ParID parid="120" val="1,1,1"/>
+	<ParID parid="140" val="1,1,1"/>
+	<ParID parid="145" val=""/>
+	<ParID parid="146" val="0"/>
+	<Object objecttypeid="2" name="Light 1" visible="1" mask="" binding="" jointoparent="0">
+		<ParID parid="100" val="1500"/>
+		<ParID parid="101" val="-3000"/>
+		<ParID parid="102" val="-3000"/>
+		<ParID parid="130" val="1"/>
+		<ParID parid="140" val="1,1,1"/>
+		<ParID parid="150" val="FALSE"/>
+	</Object>
+	<Object objecttypeid="2" name="Light 2" visible="1" mask="" binding="" jointoparent="0">
+		<ParID parid="100" val="0"/>
+		<ParID parid="101" val="0"/>
+		<ParID parid="102" val="6000"/>
+		<ParID parid="130" val="1"/>
+		<ParID parid="140" val="1,1,1"/>
+		<ParID parid="150" val="FALSE"/>
+	</Object>
+	<Object objecttypeid="250" name="MapleSim-Primitives" visible="0" mask="" binding="" jointoparent="0">
+		<ParID parid="100" val="0"/>
+		<ParID parid="101" val="0"/>
+		<ParID parid="102" val="0"/>
+		<ParID parid="103" val="0"/>
+		<ParID parid="104" val="0"/>
+		<ParID parid="105" val="0"/>
+		<ParID parid="106" val="1"/>
+		<ParID parid="107" val="1"/>
+		<ParID parid="108" val="1"/>
+		<ParID parid="124" val="1e-06"/>
+		<ParID parid="125" val="TRUE"/>
+		<Object objecttypeid="250" name="URTK.axes_Y1.CAD.frame_a" visible="0" mask="#100:4#101:8#102:12" binding="" jointoparent="0">
+			<ParID parid="100" val="280.678"/>
+			<ParID parid="101" val="114.875"/>
+			<ParID parid="102" val="-267.531"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="180" name="URTK.axes_Y1.RBF_2" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="72.7507"/>
+				<ParID parid="104" val="0.250316"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="269.534"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.axes_Y1.RBF_1" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-50.9599"/>
+				<ParID parid="104" val="9.60419"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="245.979"/>
+			</Object>
+			<Object objecttypeid="120" name="URTK.axes_Y1.&apos;RB-CoG_1&apos;" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="90" val="1: DimGray"/>
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="0"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="110" val="10"/>
+				<ParID parid="120" val="4"/>
+				<ParID parid="130" val="FALSE"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.axes_Y1.RBF" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-50.9599"/>
+				<ParID parid="104" val="156.295"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="102.082"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="180" name="URTK.FF1" visible="0" mask="" binding="" jointoparent="0">
+			<ParID parid="100" val="0"/>
+			<ParID parid="101" val="0"/>
+			<ParID parid="102" val="0"/>
+			<ParID parid="103" val="90"/>
+			<ParID parid="104" val="90"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="120" val="1: DimGray"/>
+			<ParID parid="121" val="4"/>
+			<ParID parid="122" val="FALSE"/>
+			<ParID parid="123" val="TRUE"/>
+			<ParID parid="140" val="25"/>
+			<ParID parid="141" val="25"/>
+			<ParID parid="142" val="2.5"/>
+			<Object objecttypeid="180" name="arrow" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="180"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="0"/>
+				<ParID parid="141" val="12.5"/>
+				<ParID parid="142" val="25"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.axes_Z1.CAD.frame_a" visible="0" mask="#100:16" binding="" jointoparent="0">
+			<ParID parid="100" val="252.315"/>
+			<ParID parid="101" val="336.641"/>
+			<ParID parid="102" val="-50.1246"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="180" name="URTK.axes_Z1.RBF" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-95.833"/>
+				<ParID parid="104" val="97.4457"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="245.978"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.axes_Z1.RBF_2" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-89.8566"/>
+				<ParID parid="104" val="89.7736"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="284.644"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.axes_Z1.RBF_1" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="104.869"/>
+				<ParID parid="104" val="108.263"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="101.717"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.axes_Z1.RBF_3" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-89.8486"/>
+				<ParID parid="104" val="89.761"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="269.645"/>
+			</Object>
+			<Object objecttypeid="120" name="URTK.axes_Z1.&apos;RB-CoG_1&apos;" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="90" val="1: DimGray"/>
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="0"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="110" val="10"/>
+				<ParID parid="120" val="4"/>
+				<ParID parid="130" val="FALSE"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.Y_movement_block1.CAD.frame_a" visible="0" mask="#100:20#101:24" binding="" jointoparent="0">
+			<ParID parid="100" val="281.057"/>
+			<ParID parid="101" val="116.335"/>
+			<ParID parid="102" val="-48"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="180" name="URTK.Y_movement_block1.RBF_3" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-95.2049"/>
+				<ParID parid="104" val="0.385004"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="50.0011"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.Y_movement_block1.RBF_2" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-66.3562"/>
+				<ParID parid="104" val="42.5642"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="57.0249"/>
+			</Object>
+			<Object objecttypeid="120" name="URTK.Y_movement_block1.&apos;RB-CoG_1&apos;" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="90" val="1: DimGray"/>
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="0"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="110" val="10"/>
+				<ParID parid="120" val="4"/>
+				<ParID parid="130" val="FALSE"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.Y_movement_block1.RBF_1" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-66.3562"/>
+				<ParID parid="104" val="137.436"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="57.0249"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.Y_movement_block1.RBF" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="178.235"/>
+				<ParID parid="104" val="90.1582"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="14.0372"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.Z_movement_block1.CAD.frame_a" visible="0" mask="#100:28#101:32" binding="" jointoparent="0">
+			<ParID parid="100" val="252.937"/>
+			<ParID parid="101" val="117"/>
+			<ParID parid="102" val="-48.6654"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="180" name="URTK.Z_movement_block1.RBF_2" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-0.947451"/>
+				<ParID parid="104" val="87.4538"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="14.1058"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.Z_movement_block1.RBF" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-110.148"/>
+				<ParID parid="104" val="128.302"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="57.0088"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.Z_movement_block1.RBF_3" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-89.897"/>
+				<ParID parid="104" val="90.3834"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="50.0012"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.Z_movement_block1.RBF_1" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="110.148"/>
+				<ParID parid="104" val="128.302"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="57.0088"/>
+			</Object>
+			<Object objecttypeid="120" name="URTK.Z_movement_block1.&apos;RB-CoG_1&apos;" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="90" val="1: DimGray"/>
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="0"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="110" val="10"/>
+				<ParID parid="120" val="4"/>
+				<ParID parid="130" val="FALSE"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.&apos;Ground_(axes_X)1&apos;.CAD.frame_a" visible="0" mask="" binding="" jointoparent="0">
+			<ParID parid="100" val="241.35"/>
+			<ParID parid="101" val="20.735"/>
+			<ParID parid="102" val="-50.4717"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="120" name="URTK.&apos;Ground_(axes_X)1&apos;.&apos;RB-CoG_1&apos;" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="90" val="1: DimGray"/>
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="0"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="110" val="10"/>
+				<ParID parid="120" val="4"/>
+				<ParID parid="130" val="FALSE"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.&apos;Ground_(axes_X)1&apos;.RBF_1" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="175.638"/>
+				<ParID parid="104" val="89.8809"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="227.008"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.&apos;Ground_(axes_X)1&apos;.RBF_3" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="155.748"/>
+				<ParID parid="104" val="89.357"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="42.0351"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.&apos;Ground_(axes_X)1&apos;.RBF_2" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="167.892"/>
+				<ParID parid="104" val="99.0647"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="206.464"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.&apos;Ground_(axes_X)1&apos;.RBF_4" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="17.3777"/>
+				<ParID parid="104" val="102.799"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="146.834"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.&apos;Ground_(axes_X)1&apos;.RBF" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-175.09"/>
+				<ParID parid="104" val="78.2305"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="247.441"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.X_movement_block1.CAD.frame_a" visible="0" mask="#100:0" binding="" jointoparent="0">
+			<ParID parid="100" val="253.027"/>
+			<ParID parid="101" val="38.0305"/>
+			<ParID parid="102" val="-49.6654"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="180" name="URTK.X_movement_block1.RBF_4" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="90"/>
+				<ParID parid="104" val="87.2729"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="13.9854"/>
+			</Object>
+			<Object objecttypeid="120" name="URTK.X_movement_block1.&apos;RB-CoG_1&apos;" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="90" val="1: DimGray"/>
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="0"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="110" val="10"/>
+				<ParID parid="120" val="4"/>
+				<ParID parid="130" val="FALSE"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.X_movement_block1.RBF_3" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="88.9998"/>
+				<ParID parid="104" val="87.7145"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="13.9828"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.X_movement_block1.RBF_2" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="20.2199"/>
+				<ParID parid="104" val="128.289"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="57.0249"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.X_movement_block1.RBF_1" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="-179.965"/>
+				<ParID parid="104" val="90.3834"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="50.0011"/>
+			</Object>
+			<Object objecttypeid="180" name="URTK.X_movement_block1.RBF" visible="0" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="159.78"/>
+				<ParID parid="104" val="128.289"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1"/>
+				<ParID parid="107" val="1"/>
+				<ParID parid="108" val="1"/>
+				<ParID parid="120" val="1: DimGray"/>
+				<ParID parid="121" val="20"/>
+				<ParID parid="122" val="FALSE"/>
+				<ParID parid="123" val="FALSE"/>
+				<ParID parid="140" val="5"/>
+				<ParID parid="141" val="5"/>
+				<ParID parid="142" val="57.0249"/>
+			</Object>
+		</Object>
+	</Object>
+	<Object objecttypeid="250" name="MapleSim-Geometry" visible="1" mask="" binding="" jointoparent="0">
+		<ParID parid="100" val="0"/>
+		<ParID parid="101" val="0"/>
+		<ParID parid="102" val="0"/>
+		<ParID parid="103" val="0"/>
+		<ParID parid="104" val="0"/>
+		<ParID parid="105" val="0"/>
+		<ParID parid="106" val="1"/>
+		<ParID parid="107" val="1"/>
+		<ParID parid="108" val="1"/>
+		<ParID parid="124" val="1e-06"/>
+		<ParID parid="125" val="TRUE"/>
+		<Object objecttypeid="250" name="URTK.axes_Y1.CAD.frame_a" visible="1" mask="#100:4#101:8#102:12" binding="#100*::URTKPrg:urtk_out.internal_axisY1#101*::URTKPrg:urtk_out.internal_axisY2#102*::URTKPrg:urtk_out.internal_axisY3" jointoparent="0">
+			<ParID parid="100" val="280.678"/>
+			<ParID parid="101" val="114.875"/>
+			<ParID parid="102" val="-267.531"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="600" name="URTK.axes_Y1.CAD_3" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Y_Color_224_223_219_255.stl"/>
+				<ParID parid="130" val="-267.531"/>
+				<ParID parid="131" val="-114.875"/>
+				<ParID parid="132" val="-280.678"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="2: Gainsboro"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Y1.CAD_4" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Y_Color_231_214_172_255.stl"/>
+				<ParID parid="130" val="-267.531"/>
+				<ParID parid="131" val="-114.875"/>
+				<ParID parid="132" val="-280.678"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="3: Wheat"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Y1.CAD_5" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Y_Color_13_157_13_255.stl"/>
+				<ParID parid="130" val="-267.531"/>
+				<ParID parid="131" val="-114.875"/>
+				<ParID parid="132" val="-280.678"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="4: ForestGreen"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Y1.CAD_1" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Y_Color_0_0_0_255.stl"/>
+				<ParID parid="130" val="-267.531"/>
+				<ParID parid="131" val="-114.875"/>
+				<ParID parid="132" val="-280.678"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="5: Black"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Y1.CAD" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Y_Color_178_0_0_255.stl"/>
+				<ParID parid="130" val="-267.531"/>
+				<ParID parid="131" val="-114.875"/>
+				<ParID parid="132" val="-280.678"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="6: Firebrick"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Y1.CAD_2" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Y_Color_191_191_191_255.stl"/>
+				<ParID parid="130" val="-267.531"/>
+				<ParID parid="131" val="-114.875"/>
+				<ParID parid="132" val="-280.678"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="7: gray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.axes_Z1.CAD.frame_a" visible="1" mask="#100:16" binding="#100*::URTKPrg:urtk_out.internal_axisZ1#101*::URTKPrg:urtk_out.internal_axisZ2#102*::URTKPrg:urtk_out.internal_axisZ3" jointoparent="0">
+			<ParID parid="100" val="252.315"/>
+			<ParID parid="101" val="336.641"/>
+			<ParID parid="102" val="-50.1246"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="600" name="URTK.axes_Z1.CAD" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Z_Color_178_0_0_255.stl"/>
+				<ParID parid="130" val="-50.1246"/>
+				<ParID parid="131" val="-336.641"/>
+				<ParID parid="132" val="-252.315"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="6: Firebrick"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Z1.CAD_5" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Z_Color_13_157_13_255.stl"/>
+				<ParID parid="130" val="-50.1246"/>
+				<ParID parid="131" val="-336.641"/>
+				<ParID parid="132" val="-252.315"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="4: ForestGreen"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Z1.CAD_4" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Z_Color_231_214_172_255.stl"/>
+				<ParID parid="130" val="-50.1246"/>
+				<ParID parid="131" val="-336.641"/>
+				<ParID parid="132" val="-252.315"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="3: Wheat"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Z1.CAD_3" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Z_Color_224_223_219_255.stl"/>
+				<ParID parid="130" val="-50.1246"/>
+				<ParID parid="131" val="-336.641"/>
+				<ParID parid="132" val="-252.315"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="2: Gainsboro"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Z1.CAD_2" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Z_Color_191_191_191_255.stl"/>
+				<ParID parid="130" val="-50.1246"/>
+				<ParID parid="131" val="-336.641"/>
+				<ParID parid="132" val="-252.315"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="7: gray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.axes_Z1.CAD_1" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/axes_Z_Color_0_0_0_255.stl"/>
+				<ParID parid="130" val="-50.1246"/>
+				<ParID parid="131" val="-336.641"/>
+				<ParID parid="132" val="-252.315"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="5: Black"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.Y_movement_block1.CAD.frame_a" visible="1" mask="#100:20#101:24" binding="#100*::URTKPrg:urtk_out.internal_movementY1#101*::URTKPrg:urtk_out.internal_movementY2#102*::URTKPrg:urtk_out.internal_movementY3" jointoparent="0">
+			<ParID parid="100" val="281.057"/>
+			<ParID parid="101" val="116.335"/>
+			<ParID parid="102" val="-48"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="600" name="URTK.Y_movement_block1.CAD_2" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Y_movement_block_Color_191_191_191_255.stl"/>
+				<ParID parid="130" val="-48"/>
+				<ParID parid="131" val="-116.335"/>
+				<ParID parid="132" val="-281.057"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="7: gray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.Y_movement_block1.CAD_1" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Y_movement_block_Color_69_69_69_255.stl"/>
+				<ParID parid="130" val="-48"/>
+				<ParID parid="131" val="-116.335"/>
+				<ParID parid="132" val="-281.057"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="8: DarkSlateGray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.Y_movement_block1.CAD" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Y_movement_block_Color_178_0_0_255.stl"/>
+				<ParID parid="130" val="-48"/>
+				<ParID parid="131" val="-116.335"/>
+				<ParID parid="132" val="-281.057"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="6: Firebrick"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.Z_movement_block1.CAD.frame_a" visible="1" mask="#100:28#101:32" binding="#100*::URTKPrg:urtk_out.internal_movementZ1#101*::URTKPrg:urtk_out.internal_movementZ2#102*::URTKPrg:urtk_out.internal_movementZ3" jointoparent="0">
+			<ParID parid="100" val="252.937"/>
+			<ParID parid="101" val="117"/>
+			<ParID parid="102" val="-48.6654"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="600" name="URTK.Z_movement_block1.CAD_1" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Z_movement_block_Color_69_69_69_255.stl"/>
+				<ParID parid="130" val="-48.6654"/>
+				<ParID parid="131" val="-117"/>
+				<ParID parid="132" val="-252.937"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="8: DarkSlateGray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.Z_movement_block1.CAD_2" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Z_movement_block_Color_191_191_191_255.stl"/>
+				<ParID parid="130" val="-48.6654"/>
+				<ParID parid="131" val="-117"/>
+				<ParID parid="132" val="-252.937"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="7: gray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.Z_movement_block1.CAD" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Z_movement_block_Color_178_0_0_255.stl"/>
+				<ParID parid="130" val="-48.6654"/>
+				<ParID parid="131" val="-117"/>
+				<ParID parid="132" val="-252.937"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="6: Firebrick"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.&apos;Ground_(axes_X)1&apos;.CAD.frame_a" visible="1" mask="" binding="#100*::URTKPrg:urtk_out.internal_Ground1#101*::URTKPrg:urtk_out.internal_Ground2#102*::URTKPrg:urtk_out.internal_Ground3" jointoparent="0">
+			<ParID parid="100" val="241.35"/>
+			<ParID parid="101" val="20.735"/>
+			<ParID parid="102" val="-50.4717"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="600" name="URTK.&apos;Ground_(axes_X)1&apos;.CAD_5" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Ground_(axes_X)_Color_13_157_13_255.stl"/>
+				<ParID parid="130" val="-50.4717"/>
+				<ParID parid="131" val="-20.735"/>
+				<ParID parid="132" val="-241.35"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="4: ForestGreen"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.&apos;Ground_(axes_X)1&apos;.CAD_4" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Ground_(axes_X)_Color_231_214_172_255.stl"/>
+				<ParID parid="130" val="-50.4717"/>
+				<ParID parid="131" val="-20.735"/>
+				<ParID parid="132" val="-241.35"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="3: Wheat"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.&apos;Ground_(axes_X)1&apos;.CAD" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Ground_(axes_X)_Color_178_0_0_255.stl"/>
+				<ParID parid="130" val="-50.4717"/>
+				<ParID parid="131" val="-20.735"/>
+				<ParID parid="132" val="-241.35"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="6: Firebrick"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.&apos;Ground_(axes_X)1&apos;.CAD_1" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Ground_(axes_X)_Color_0_0_0_255.stl"/>
+				<ParID parid="130" val="-50.4717"/>
+				<ParID parid="131" val="-20.735"/>
+				<ParID parid="132" val="-241.35"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="5: Black"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.&apos;Ground_(axes_X)1&apos;.CAD_3" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Ground_(axes_X)_Color_224_223_219_255.stl"/>
+				<ParID parid="130" val="-50.4717"/>
+				<ParID parid="131" val="-20.735"/>
+				<ParID parid="132" val="-241.35"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="2: Gainsboro"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.&apos;Ground_(axes_X)1&apos;.CAD_2" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/Ground_(axes_X)_Color_191_191_191_255.stl"/>
+				<ParID parid="130" val="-50.4717"/>
+				<ParID parid="131" val="-20.735"/>
+				<ParID parid="132" val="-241.35"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="7: gray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+		</Object>
+		<Object objecttypeid="250" name="URTK.X_movement_block1.CAD.frame_a" visible="1" mask="#100:0" binding="#100*::URTKPrg:urtk_out.internal_movementX1#101*::URTKPrg:urtk_out.internal_movementX2#102*::URTKPrg:urtk_out.internal_movementX3" jointoparent="0">
+			<ParID parid="100" val="253.027"/>
+			<ParID parid="101" val="38.0305"/>
+			<ParID parid="102" val="-49.6654"/>
+			<ParID parid="103" val="0"/>
+			<ParID parid="104" val="0"/>
+			<ParID parid="105" val="0"/>
+			<ParID parid="106" val="1"/>
+			<ParID parid="107" val="1"/>
+			<ParID parid="108" val="1"/>
+			<ParID parid="124" val="1e-06"/>
+			<ParID parid="125" val="TRUE"/>
+			<Object objecttypeid="600" name="URTK.X_movement_block1.CAD_2" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/X_movement_block_Color_191_191_191_255.stl"/>
+				<ParID parid="130" val="-49.6654"/>
+				<ParID parid="131" val="-38.0305"/>
+				<ParID parid="132" val="-253.027"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="7: gray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.X_movement_block1.CAD_1" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/X_movement_block_Color_69_69_69_255.stl"/>
+				<ParID parid="130" val="-49.6654"/>
+				<ParID parid="131" val="-38.0305"/>
+				<ParID parid="132" val="-253.027"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="8: DarkSlateGray"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+			<Object objecttypeid="600" name="URTK.X_movement_block1.CAD" visible="1" mask="" binding="" jointoparent="1">
+				<ParID parid="100" val="0"/>
+				<ParID parid="101" val="0"/>
+				<ParID parid="102" val="0"/>
+				<ParID parid="103" val="0"/>
+				<ParID parid="104" val="90"/>
+				<ParID parid="105" val="0"/>
+				<ParID parid="106" val="1000"/>
+				<ParID parid="107" val="1000"/>
+				<ParID parid="108" val="1000"/>
+				<ParID parid="120" val="CADdata/X_movement_block_Color_178_0_0_255.stl"/>
+				<ParID parid="130" val="-49.6654"/>
+				<ParID parid="131" val="-38.0305"/>
+				<ParID parid="132" val="-253.027"/>
+				<ParID parid="133" val="0"/>
+				<ParID parid="134" val="0"/>
+				<ParID parid="135" val="0"/>
+				<ParID parid="140" val="6: Firebrick"/>
+				<ParID parid="141" val="1"/>
+				<ParID parid="150" val="0"/>
+				<ParID parid="151" val="1"/>
+				<ParID parid="152" val="1e-06"/>
+				<ParID parid="200" val="0"/>
+				<ParID parid="201" val="0"/>
+				<ParID parid="202" val="0"/>
+				<ParID parid="203" val="0"/>
+				<ParID parid="204" val="0"/>
+				<ParID parid="205" val="0"/>
+			</Object>
+		</Object>
+	</Object>
+</Object>
+<Materials>
+	<Material ID="1" Name="DimGray" Ambient="0.392157 0.392157 0.392157 1.000000" Specular="0.750000 0.750000 0.740000 1.000000" Emission="0.000000 0.000000 0.000000 1.000000" Shininess="32.000000"/>
+	<Material ID="2" Name="Gainsboro" Ambient="0.878431 0.874510 0.858824 1.000000" Specular="0.750000 0.750000 0.740000 1.000000" Emission="0.000000 0.000000 0.000000 1.000000" Shininess="32.000000"/>
+	<Material ID="3" Name="Wheat" Ambient="0.905882 0.839216 0.674510 1.000000" Specular="0.750000 0.750000 0.740000 1.000000" Emission="0.000000 0.000000 0.000000 1.000000" Shininess="32.000000"/>
+	<Material ID="4" Name="ForestGreen" Ambient="0.050980 0.615686 0.050980 1.000000" Specular="0.750000 0.750000 0.740000 1.000000" Emission="0.000000 0.000000 0.000000 1.000000" Shininess="32.000000"/>
+	<Material ID="5" Name="Black" Ambient="0.000000 0.000000 0.000000 1.000000" Specular="0.750000 0.750000 0.740000 1.000000" Emission="0.000000 0.000000 0.000000 1.000000" Shininess="32.000000"/>
+	<Material ID="6" Name="Firebrick" Ambient="0.698039 0.000000 0.000000 1.000000" Specular="0.750000 0.750000 0.740000 1.000000" Emission="0.000000 0.000000 0.000000 1.000000" Shininess="32.000000"/>
+	<Material ID="7" Name="gray" Ambient="0.749020 0.749020 0.749020 1.000000" Specular="0.750000 0.750000 0.740000 1.000000" Emission="0.000000 0.000000 0.000000 1.000000" Shininess="32.000000"/>
+	<Material ID="8" Name="DarkSlateGray" Ambient="0.270588 0.270588 0.270588 1.000000" Specular="0.750000 0.750000 0.740000 1.000000" Emission="0.000000 0.000000 0.000000 1.000000" Shininess="32.000000"/>
+</Materials>
+<Views/>
+<Connection>
+	<PVI>
+		<NameTask>
+			URTK_trPrg
+		</NameTask>
+		<NameTime>
+			time
+		</NameTime>
+		<NameVariable>
+			URTK_tryView_0.ObjPos
+		</NameVariable>
+		<ExtraSettings>
+		</ExtraSettings>
+		<ConectionParameters>
+		</ConectionParameters>
+		<RF>
+			25
+		</RF>
+		<DAIP>
+			127.0.0.1
+		</DAIP>
+		<Size>
+			36
+		</Size>
+		<TimerModeOn>
+			1
+		</TimerModeOn>
+	</PVI>
+</Connection>
